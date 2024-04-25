@@ -1,0 +1,57 @@
+body{
+    background-image: url('https://i.pinimg.com/originals/c6/1d/95/c61d95738bf8cc5c8e9863bd8d638a78.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+}
+.perfil{
+    margin-left: 4400px;
+    margin-top: 300px;
+    width: 700px;
+}
+.margen{
+    margin: 700px;
+}
+h1{
+    background-color: #453109;
+    color: #F4E1BA;
+    text-align: center;
+    font-size: 200px;
+}
+.tam{
+    font-size: 130px;
+}
+h2{
+    background-color: #453109;
+    color: #F4E1BA;
+    font-size: 150px;
+}
+.negrita{
+    
+    font-style: italic;
+    font-size: 100px;
+}
+.tipo-letra{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 100px;
+}
+.letra-pie{
+    color: #F4E1BA;
+    font-family: Arial, Helvetica, sans-serif;
+
+text-align: center;
+
+}
+.pie-pag{
+    background-color: #453109;
+    color: #F4E1BA;
+    font-size: 150px;
+}
+.icono-pie{
+    width: 200px;
+
+ text-align: center;
+
+}
